@@ -14,7 +14,7 @@ Before that, I obtained my Bachlor degree from the same Beijing Jiaotong Univers
 My research interests include: 
 - 🖼️ **Fine-grained Visual Perception (e.g. Visual Grounding)**
 - 💬 **Visual Reasoning in Multimodal Large Language Models**
-- 🧩 **The reliability and safety of LLM**
+- 🧩 **The Reliability and Safety of LLM**
 
 ## Selected Publications
 Full List is in [Google Scholar](https://scholar.google.com/citations?hl=en&user=QEiL8JAAAAAJ)
