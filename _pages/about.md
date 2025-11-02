@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year CS Ph.D. student at [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/), advised by Prof. [Jinan Xu](https://faculty.bjtu.edu.cn/8300/) and Prof. [Kaiyu Huang](https://faculty.bjtu.edu.cn/10144/). I am broadly interested in Multimodal Large Language Models, Natural Language Generation and Trustworthy Large Language Models.  
   
-Before that, I obtained my Bachlor degree from the same Beijing Jiaotong University majoring in Computer Science.
+Before that, I obtained my Bachlor degree from the same Beijing Jiaotong University, majoring in Computer Science.
 
 My research interests include: 
 - 🖼️ **Fine-grained Visual Perception (e.g. Visual Grounding)**
