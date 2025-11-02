@@ -23,7 +23,7 @@ repository               : "michael4933/michael4933.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/image_liyou.png"
+  avatar           : "images/image_liyou.jpg"
   name             : "You Li (李铀)" 
   bio              : "PhD Student in AI, Multimodal LLM Researcher"
   location         : "Beijing, China"
